@@ -1,0 +1,1 @@
+This project will explores the Ames, Iowa housing dataset with a goal to approximate the sale price of houses dependent on different features of the house. Data cleaning was performed in order to implement several algorithms such as Linear Regressor, KNN, Decision Trees, Random Forrest and xgBoost.
